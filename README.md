@@ -1,7 +1,3 @@
-Here's a short README for this project:
-
----
-
 ## World Happiness Report — Region Classification
 
 A Jupyter notebook that uses the **World Happiness Report (WHR) 2018** dataset to explore supervised machine learning classification with scikit-learn.
